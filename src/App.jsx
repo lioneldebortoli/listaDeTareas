@@ -1,5 +1,6 @@
 import FormularioTarea from "./components/FormularioTarea";
 
+
 function App() {
   
   return (
@@ -9,7 +10,7 @@ function App() {
           <h1>Lista de Tareas</h1>
         </header>
         <main className="container">
-          <FormularioTarea></FormularioTarea>
+          <FormularioTarea />
         </main>
         <footer className="text-center"></footer>
       </div>
